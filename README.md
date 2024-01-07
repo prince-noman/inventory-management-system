@@ -1,4 +1,4 @@
-## Property Listing API
+## Inventory Management System
 
 ### Technology Used
 
