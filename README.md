@@ -8,4 +8,8 @@
 
 ### Backend
 
--   Laravel, Laravel Sanctum
+-   Laravel, JWT Authentication
+
+### Database:
+
+-   MySQL
