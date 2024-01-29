@@ -13,3 +13,14 @@
 ### Database:
 
 -   MySQL
+
+### Features:
+
+-   Profile Management
+-   Category Management
+-   Product Management
+-   Customer Management
+-   Sale Management
+-   Invoice Management
+-   Report Management
+-   JWT Token Based Authentication
