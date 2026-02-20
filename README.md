@@ -1,5 +1,9 @@
 # Inventory Management System
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,bootstrap,tailwind,js,nodejs,vite" alt="Tech Stack Icons" />
+</p>
+
 A comprehensive, robust, and secure Inventory Management System built with **Laravel 10**, designed to streamline your business operations. This application provides real-time tracking, customer management, invoicing, and detailed sales reporting, entirely powered by an AJAX-driven frontend and a solid backend architecture.
 
 ## 🚀 Features
